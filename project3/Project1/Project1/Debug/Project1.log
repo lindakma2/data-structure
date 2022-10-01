@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\a3311\Desktop\資料結構\project3\Project1\Project1\Source.cpp(227,12): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a3311\Desktop\資料結構\project3\Project1\Project1\Source.cpp(68): warning C4715: 'symbol': 不是所有控制路徑都傳回值
+C:\Users\a3311\Desktop\資料結構\project3\Project1\Project1\Source.cpp(42): warning C4715: 'pop': 不是所有控制路徑都傳回值
+C:\Users\a3311\Desktop\資料結構\project3\Project1\Project1\Source.cpp(174): warning C4715: 'countnum': 不是所有控制路徑都傳回值
+C:\Users\a3311\Desktop\資料結構\project3\Project1\Project1\Source.cpp(206): warning C4715: 'intpop': 不是所有控制路徑都傳回值
+  Project1.vcxproj -> C:\Users\a3311\Desktop\資料結構\project3\Project1\Debug\Project1.exe

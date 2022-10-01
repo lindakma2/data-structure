@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\a3311\Desktop\資料結構\project4\Project4\Project4\Source.cpp(99,14): warning C4099: 'bst': 類型名稱之前使用 'class'，現在發現使用 'struct'
+C:\Users\a3311\Desktop\資料結構\project4\Project4\Project4\Source.cpp(5): message : 請參閱 'bst' 的宣告
+C:\Users\a3311\Desktop\資料結構\project4\Project4\Project4\Source.cpp(104,14): warning C4099: 'bst': 類型名稱之前使用 'class'，現在發現使用 'struct'
+C:\Users\a3311\Desktop\資料結構\project4\Project4\Project4\Source.cpp(5): message : 請參閱 'bst' 的宣告
+C:\Users\a3311\Desktop\資料結構\project4\Project4\Project4\Source.cpp(110,13): warning C4099: 'bst': 類型名稱之前使用 'class'，現在發現使用 'struct'
+C:\Users\a3311\Desktop\資料結構\project4\Project4\Project4\Source.cpp(5): message : 請參閱 'bst' 的宣告
+  Project4.vcxproj -> C:\Users\a3311\Desktop\資料結構\project4\Project4\Debug\Project4.exe

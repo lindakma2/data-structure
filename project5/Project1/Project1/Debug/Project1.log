@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\a3311\Desktop\資料結構\project5\Project1\Project1\Source.cpp(116,25): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\a3311\Desktop\資料結構\project5\Project1\Project1\Source.cpp(46): warning C4715: 'pop': 不是所有控制路徑都傳回值
+  Project1.vcxproj -> C:\Users\a3311\Desktop\資料結構\project5\Project1\Debug\Project1.exe
